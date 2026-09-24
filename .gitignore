@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+training_checkpoints/
+*.pth
+.env
+.DS_Store
